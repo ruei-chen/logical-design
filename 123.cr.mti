@@ -1,0 +1,44 @@
+{C:/E94096039 verilog hw2/over.v} {1 {vlog -work work -stats=none {C:/E94096039 verilog hw2/over.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module over
+
+Top level modules:
+	over
+
+} {} {}} {C:/E94096039 verilog hw2/count.v} {1 {vlog -work work -stats=none {C:/E94096039 verilog hw2/count.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fulladder
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/E94096039 verilog hw2/7display.v} {1 {vlog -work work -stats=none {C:/E94096039 verilog hw2/7display.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seven_display
+
+Top level modules:
+	seven_display
+
+} {} {}} {C:/E94096039 verilog hw2/jkff.v} {1 {vlog -work work -stats=none {C:/E94096039 verilog hw2/jkff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module jkff
+
+Top level modules:
+	jkff
+
+} {} {}} {C:/E94096039 verilog hw2/main.v} {1 {vlog -work work -stats=none {C:/E94096039 verilog hw2/main.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module main
+
+Top level modules:
+	main
+
+} {} {}} {C:/E94096039 verilog hw2/tb.v} {1 {vlog -work work -stats=none {C:/E94096039 verilog hw2/tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}
