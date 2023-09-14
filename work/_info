@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vcounter
+Z0 !s110 1655611106
+!i10b 1
+!s100 Rg_Qnc`ie<FmX:;4f?59c0
+IDNm24@Dzjc:8_NLT9X]]h0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/E94096039 verilog hw2
+Z3 w1655571314
+Z4 8C:/E94096039 verilog hw2/count.v
+Z5 FC:/E94096039 verilog hw2/count.v
+L0 17
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1655611106.000000
+Z8 !s107 C:/E94096039 verilog hw2/count.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/E94096039 verilog hw2/count.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vfulladder
+R0
+!i10b 1
+!s100 _Bmk4Q55bQbeL^NFElR^;3
+Id9Rm<P`EZZnmfZ?QIW:O10
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vjkff
+R0
+!i10b 1
+!s100 kib<3^W9R1]]kMjjXO;A[0
+I4OE3;lnKf>A3NZOWRH3683
+R1
+R2
+w1655571341
+8C:/E94096039 verilog hw2/jkff.v
+FC:/E94096039 verilog hw2/jkff.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/E94096039 verilog hw2/jkff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/E94096039 verilog hw2/jkff.v|
+!i113 1
+R10
+R11
+vmain
+R0
+!i10b 1
+!s100 OOafQ[z:@nXQQ2?fD7`J20
+Ik?on;TfIIoQPmlb;;O0Iz0
+R1
+R2
+w1655571375
+8C:/E94096039 verilog hw2/main.v
+FC:/E94096039 verilog hw2/main.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/E94096039 verilog hw2/main.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/E94096039 verilog hw2/main.v|
+!i113 1
+R10
+R11
+vone_tb
+!s110 1655199480
+!i10b 1
+!s100 JNU_loWKJaD_WVfd?n7GX0
+I_;<2R`46BcIO9<0<5BM4U0
+R1
+R2
+w1655198717
+8C:\E94096039 verilog hw2\tb.v
+FC:\E94096039 verilog hw2\tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1655199480.000000
+!s107 C:\E94096039 verilog hw2\tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\E94096039 verilog hw2\tb.v|
+!i113 1
+R10
+R11
+vover
+R0
+!i10b 1
+!s100 z:?ZlN7cBOmMfTE03XYC@3
+Io>eGomY3RT:3cM83PH`YX0
+R1
+R2
+w1655572185
+8C:/E94096039 verilog hw2/over.v
+FC:/E94096039 verilog hw2/over.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/E94096039 verilog hw2/over.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/E94096039 verilog hw2/over.v|
+!i113 1
+R10
+R11
+vseven_display
+R0
+!i10b 1
+!s100 _g4^^34:cRcG^?2[W0^ek3
+ICEWU_J92aIf4=1hTS?W[H3
+R1
+R2
+w1655571212
+8C:/E94096039 verilog hw2/7display.v
+FC:/E94096039 verilog hw2/7display.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/E94096039 verilog hw2/7display.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/E94096039 verilog hw2/7display.v|
+!i113 1
+R10
+R11
+vtestbench
+R0
+!i10b 1
+!s100 @kh[oZLbij:_3V0[7;;3`0
+I]AFTA>UH5?9k<eNPc7`FA3
+R1
+R2
+w1655611104
+8C:/E94096039 verilog hw2/tb.v
+FC:/E94096039 verilog hw2/tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/E94096039 verilog hw2/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/E94096039 verilog hw2/tb.v|
+!i113 1
+R10
+R11
